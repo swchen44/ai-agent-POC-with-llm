@@ -1,0 +1,1 @@
+prompt = """You are a module designer. Decompose the system design into software modules with C-style function prototypes."""

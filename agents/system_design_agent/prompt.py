@@ -1,0 +1,1 @@
+prompt = """You are a system architect. Based on the requirements, produce a high-level system design."""

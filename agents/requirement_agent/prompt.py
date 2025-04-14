@@ -1,0 +1,1 @@
+prompt = """You are a requirements analyst. Extract key software requirements from the user's input."""
